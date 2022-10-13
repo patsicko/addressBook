@@ -1,0 +1,34 @@
+
+
+body{
+    display: flex;
+    gap: 50px;
+}
+
+.style{
+    background-color:  gray;
+    height: 200px;
+    width:600px ;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+form{
+    height: 300px;
+    width:250px ;
+    background-color: rgb(144, 212, 144);
+    margin-left: 200px;
+    margin-top: 100px;
+    padding: 80px;
+    border-radius: 8px;
+}
+#btn{
+    margin-left: 80px;
+    background-color: blue;
+    color: white;
+    font-weight: 900;
+}
